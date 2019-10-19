@@ -7,16 +7,15 @@
 ----
 ----
 
-## EndPoints
+# EndPoints
 
 
-### groceries
+## /groceries
 
 ```
 users grocery lists and grocery features
 ```
 
-----
 
  
 <table><tr><td>
