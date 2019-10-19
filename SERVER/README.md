@@ -20,12 +20,13 @@ users grocery lists and grocery features
 
  
 <table><tr><td>
- /getAll
  
- Description
+#### /getAll
+ 
+ Description:
 
-adasasdasdasdasdasdasd
-asdasdasdasdasdasd
+_adasasdasdasdasdasdasd
+asdasdasdasdasdasd_
 
  Response Object:
 
