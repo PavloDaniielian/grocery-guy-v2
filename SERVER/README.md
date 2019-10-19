@@ -19,7 +19,7 @@ users grocery lists and grocery features
 ----
 
  
- <kbd>
+<table><tr><td>
  /getAll
  
  Description
@@ -31,4 +31,4 @@ asdasdasdasdasdasd
 
 dasasdasdasdasdasdasd
 asdasdasdasdasd
-</kbd>
+</td></tr></table>
