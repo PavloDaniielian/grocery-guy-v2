@@ -9,11 +9,13 @@
 
 ## EndPoints
 
-### /groceries
+* ### /groceries
 ```
 users grocery lists and grocery features
 ```
- /getAll:
+   * /getAll
+ 
+ Description
 
 adasasdasdasdasdasdasd
 asdasdasdasdasdasd
