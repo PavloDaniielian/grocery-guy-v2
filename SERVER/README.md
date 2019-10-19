@@ -10,13 +10,14 @@
 ## EndPoints
 
 
-### /groceries
-
-----
+### groceries
 
 ```
 users grocery lists and grocery features
 ```
+
+----
+
  
  <kbd>
  /getAll
