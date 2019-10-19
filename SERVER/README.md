@@ -9,11 +9,17 @@
 
 ## EndPoints
 
-* ### /groceries
+
+### /groceries
+
+----
+
 ```
 users grocery lists and grocery features
 ```
-   * /getAll
+ 
+ <kbd>
+ /getAll
  
  Description
 
@@ -24,3 +30,4 @@ asdasdasdasdasdasd
 
 dasasdasdasdasdasdasd
 asdasdasdasdasd
+</kbd>
